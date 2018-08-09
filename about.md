@@ -11,4 +11,4 @@ I got my B.S in Aerospace Engineering at the University of Illinois at Urbana-Ch
 
 If you want to get in touch with me, hit me up on <a href="https://twitter.com/DoYouEvenBrown">Twitter</a> or email me at ping00@protonmail.com
 
-Back to [Home!](/README.md)
+Back to [Home](/README.md)!
