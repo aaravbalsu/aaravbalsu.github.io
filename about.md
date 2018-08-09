@@ -6,4 +6,4 @@ title: About
 
 In a word: **Awesome!**
 
-Go back to the [Home page](/go-go-ghpages/README.md)
+Go back to the [Home page](/README.md)
