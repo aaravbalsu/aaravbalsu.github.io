@@ -6,4 +6,4 @@ title: About
 
 In a word: **Awesome!**
 
-See the [Home page](/aaravbalsu.github.io/README.md)
+Go back to the [Home page](/go-go-ghpages/README.md)
