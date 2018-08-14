@@ -11,6 +11,6 @@ I got my B.S in Aerospace Engineering at the University of Illinois at Urbana-Ch
 
 Here's a link to [my resume](/Northeastern%20Resume%2011.pdf) and <a href="https://github.com/aaravbalsu">my GitHub</a>.
 
-If you want to get in touch with me, hit me up on <a href="https://twitter.com/DoYouEvenBrown">Twitter</a> or email me at ping00 [at] protonmail.com
+If you want to get in touch with me, hit me up on <a href="https://twitter.com/DoYouEvenBrown">Twitter</a> or email me at ping00 [at] protonmail [dot] com
 
 Back to [Home](/README.md)!
