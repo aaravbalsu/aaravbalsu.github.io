@@ -10,7 +10,7 @@ Howdy, I'm Aarav. I like computers and amateur electronics, reading philosophy, 
 
 I was educated as an aerospace engineer (UIUC '17), then an operations researcher (read: mathematical optimization) (NEU '19), and I now work as a security consultant. 
 
-I started this as a way for me to document both my technical learnings and to subject the denizens of the Internet to occasional ramblings.
+I started this primarily to document my technical learnings, but I'm not opposed to subjecting the denizens of the Internet to  assorted and occasional ramblings.
 
 I'm indebted to the infosec community (and the FOSS movement as whole) that has always selflessly curated and circulated troves of open-source knowledge for everyone, so a <u><b>massive</b></u> shout out to them. In that spirit, I hope this blog can serve others too.
 
