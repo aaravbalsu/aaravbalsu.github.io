@@ -6,7 +6,7 @@ title: About
 ![alt text](photo_georgia.jpeg)
 <center><i>Posing for your viewing pleasure @ Gudauri, Georgia (the country)</i></center>
 
-Howdy, I'm Aarav. I like messing around with computers and amateur electronics, reading history and philosophy, and collecting vintage Soviet art (especially about their space program).
+o/ I'm Aarav. I like messing around with computers and amateur electronics, reading history and philosophy, and collecting vintage Soviet art (especially about their space program).
 
 I was educated as an aerospace engineer (UIUC '17), then an operations researcher (read: mathematical optimization) (NEU '19), and I now work as a security consultant. 
 
