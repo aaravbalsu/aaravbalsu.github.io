@@ -1,7 +1,3 @@
----
-title: About
----
-
 # me_irl
 ![alt text](photo_georgia.jpeg)
 <center><i>Posing for your viewing pleasure @ Gudauri, Georgia (the country)</i></center>
