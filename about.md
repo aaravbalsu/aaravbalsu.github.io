@@ -18,6 +18,7 @@ Return from [whence](/README.md) you came.
 
 
 db_user: admin
+
 db_pass: NisbejLogFoncibtysortEmeyxTox8
 
 <!-- Here's your reward for a thorough investigation: https://www.youtube.com/playlist?list=PLuO6fGYzlNgt-TY9vie9--FjTj7ef9MZ1 Enjoy :) -->
